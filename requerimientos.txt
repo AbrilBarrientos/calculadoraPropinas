@@ -1,0 +1,7 @@
+//Obtener el monto total de la cuenta
+//Obtener el porcentaje de propina deseada
+//Calcular la propina (monto total + porcentaje de propina)
+//Calcular total a pagar (monto total + propina)
+//Mostrar el total a pagar al usuario
+
+Pseudocodigo
